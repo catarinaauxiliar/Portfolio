@@ -79,4 +79,4 @@ This project gave me practical experience in applying operations research
 techniques to real business scenarios and strengthened my ability to use
 optimization tools for strategic decision-making.
 
-Folder: Otimization Models
+Folder: Optimization Models
