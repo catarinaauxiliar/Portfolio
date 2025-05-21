@@ -28,9 +28,8 @@ storytelling and understand how to build meaningful visual narratives.
 For the project, we investigated the use of European Union funds under
 Portugal’s Operational Program for Human Capital (POCH), analysing how these
 funds were allocated and used across different sectors.
-Dashboard
-Report
-(Another PBI project worth mentioning - 2025)
+
+Folder: Business Analystics and Data Culture
 
 **Case Studies for Statistical Data Analysis - 2024**
 
@@ -46,7 +45,8 @@ consumption.
 
 These projects helped me build a solid foundation in applied statistics and
 showed me the value of using data to extract meaningful insights.
-Reports
+
+Folder:
 
 **Project 2 – “Crime prediction in the city of Los Angeles” - 2025**
 
@@ -59,9 +59,8 @@ dataset, cleaning and transforming the data, and finally training and evaluating
 machine learning models. This project allowed me to apply Big Data and ML
 techniques using Python in a real-world, large-scale scenario with geographic
 and temporal complexity.
-Report
-Notebook 1
-Notebook 2
+
+Folder:
 
 **Project 3 – “Mix of production problem for the maximization of the
 profit” - 2025**
@@ -79,4 +78,5 @@ capacities.
 This project gave me practical experience in applying operations research
 techniques to real business scenarios and strengthened my ability to use
 optimization tools for strategic decision-making.
-Report
+
+Folder:
