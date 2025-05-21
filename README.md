@@ -46,7 +46,7 @@ consumption.
 These projects helped me build a solid foundation in applied statistics and
 showed me the value of using data to extract meaningful insights.
 
-Folder:
+Folder: Statistical Data Analysis
 
 **Project 2 – “Crime prediction in the city of Los Angeles” - 2025**
 
@@ -60,7 +60,7 @@ machine learning models. This project allowed me to apply Big Data and ML
 techniques using Python in a real-world, large-scale scenario with geographic
 and temporal complexity.
 
-Folder:
+Folder: Big Data
 
 **Project 3 – “Mix of production problem for the maximization of the
 profit” - 2025**
@@ -79,4 +79,4 @@ This project gave me practical experience in applying operations research
 techniques to real business scenarios and strengthened my ability to use
 optimization tools for strategic decision-making.
 
-Folder:
+Folder: Otimization Models
